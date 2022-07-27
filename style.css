@@ -380,7 +380,7 @@ fill: #2196F3;
 .footer-divs{
     display: flex;
     align-items: baseline;
-
+    gap: 70px;
 }
 
 .footer-address{
@@ -435,6 +435,7 @@ fill: #2196F3;
 }
 
 .footer-social-p{
+margin-bottom: 20px;
 font-weight: 700;
 font-size: 14px;
 line-height: 1.1;
